@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **J2EE,Spring,Spring Boot**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java** 
 
 - 📫 How to reach me **soookaan@gmail.com**
 
