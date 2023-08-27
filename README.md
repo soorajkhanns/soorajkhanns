@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **soookaan@gmail.com**
 
-- 📄 Know about my experiences -: core java
+- 📄 Know about my experiences -: core java,HTML
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
