@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [Campus Guard](https://github.com/soorajkhanns/Campus-Guard)
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Spring Boot** 
 
 - 💬 Ask me about **Java** 
-
+ 
 - 📫 How to reach me **soookaan@gmail.com**
 
-- 📄 Know about my experiences -: core java,HTML,j2ee,spring,CSS,jsp
+- 📄 Know about my experiences -: core java,HTML,j2ee,spring,CSS,jsp 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
